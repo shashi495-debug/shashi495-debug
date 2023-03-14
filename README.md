@@ -92,7 +92,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ### CERTIFICATIONS   
-<img src="https://www.hackerrank.com/certificates/90f691712a93.png" align="left" height="220" width="500" />  
+<img src="https://github.com/shashi495-debug/shashi495-debug/blob/main/CSS.png" align="left" height="220" width="500" />  
   
 
 ![]()  
