@@ -93,7 +93,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ### CERTIFICATIONS   
 <img src="https://github.com/shashi495-debug/shashi495-debug/blob/main/CSS.png" align="left" height="220" width="500" />  
-  
+ <img src="https://github.com/shashi495-debug/shashi495-debug/blob/main/java.png" align="left" height="220" width="500" />
+ <img src="https://github.com/shashi495-debug/shashi495-debug/blob/main/sql.png" align="left" height="220" width="500" />
+ <img src="https://github.com/shashi495-debug/shashi495-debug/blob/main/react.png" align="left" height="220" width="500" />
+ <img src="https://github.com/shashi495-debug/shashi495-debug/blob/main/DSA certificate.jpg" align="left" height="220" width="500" />
 
 ![]()  
   
