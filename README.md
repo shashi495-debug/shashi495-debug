@@ -108,7 +108,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
  <td><img src="https://github.com/shashi495-debug/shashi495-debug/blob/main/DSA certificate.jpg" align="left" height="220" width="500" /></td>
 </tr><br>
 </table>
-![]()  
+
   
 
   
