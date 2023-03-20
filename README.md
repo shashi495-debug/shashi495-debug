@@ -34,7 +34,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - 🔭 I’m currently working on Full Stack Developer  
   
 
-- 🌱 I’m currently working Sat software and pvt ltd.  
+- 🌱 I’m currently working at Sat software and pvt ltd.  
   
 
 - ❓ Ask me about anything related to Java related topics  
