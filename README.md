@@ -27,7 +27,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table ><tr><td valign="top" height="50%" width="50%">
 
 - 🔭 I’m currently working on Full Stack Developer  
   
@@ -41,10 +41,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" height="50%" width="50%">
 
 <div align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/121/121152.png" align="center" style="width: 100%" />
+<img src="https://cdn-icons-png.flaticon.com/512/121/121152.png" align="center" style="width: 50%" />
 </div>  
 
 
