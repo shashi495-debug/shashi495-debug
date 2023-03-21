@@ -100,6 +100,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
  <td><img src="https://github.com/shashi495-debug/shashi495-debug/blob/main/java.png" align="left" height="220" width="500" /></td>
  </tr><br>
  <tr>
+ <td><img src="https://github.com/shashi495-debug/shashi495-debug/blob/main/javascript.png" align="left" height="220" width="500" /></td>
+ <td><img src="https://github.com/shashi495-debug/shashi495-debug/blob/main/pbm solving.png" align="left" height="220" width="500" /></td>
+ </tr><br>
+  <tr>
  <td><img src="https://github.com/shashi495-debug/shashi495-debug/blob/main/sql.png" align="left" height="220" width="500" /></td>
  <td><img src="https://github.com/shashi495-debug/shashi495-debug/blob/main/react.png" align="left" height="220" width="500" /></td>
  </tr><br>
